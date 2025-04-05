@@ -1,0 +1,23 @@
+[
+    {
+      "id": "emerging-ai-trends",
+      "title": "Top 5 Emerging AI Trends in 2024",
+      "snippet": "Discover the key advancements in artificial intelligence shaping industries this year.",
+      "imageUrl": "/images/insights/ai-trends-thumb.webp", 
+      "date": "2024-03-10"
+    },
+    {
+      "id": "quantum-computing-breakthroughs",
+      "title": "Quantum Computing: Recent Breakthroughs and Future Impact",
+      "snippet": "An overview of the latest milestones in quantum computing and what they mean for technology.",
+      "imageUrl": "/images/insights/quantum-thumb.webp", 
+      "date": "2024-03-05"
+    },
+    {
+      "id": "placeholder-insight",
+      "title": "Placeholder Insight Title",
+      "snippet": "This is a brief description for a placeholder insight card.",
+      "imageUrl": null, 
+      "date": "2024-02-28"
+    }
+  ]
